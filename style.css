@@ -2,6 +2,9 @@ body{
   font-family: 'Open Sans', sans-serif;
   margin: 0;
 }
+.car-shop-header{
+  padding-top: 50px;
+}
 .flex-container{
   display: flex;
   color: #333;
