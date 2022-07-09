@@ -82,3 +82,36 @@ body{
 .car-price{
   margin-left: 120px;
 }
+.cars-sale-and-dealers{
+  margin-bottom: 120px;
+}
+.counters{
+  width: 1100px;
+  justify-content: space-around;
+  margin: auto;
+  box-shadow: 0 0 15px 1px #e2e2e2;
+  border-radius: 15px;
+  padding: 20px 0;
+}
+.counters h1{
+  font-size: 40px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 0;
+}
+.counters p{
+  margin-top: 15px;
+}
+footer{
+  text-align: center;
+  background-color: #0b0d17;
+  padding: 50px 0;
+}
+footer h2{
+  font-size: 32px;
+  color: #777;
+  margin-top: 0;
+}
+footer p{
+  font-size: 14px;
+  color: white;
+}
